@@ -1,0 +1,70 @@
+
+> dev
+> react-router dev --host 127.0.0.1 --port 4000
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4000[22m/[39m
+[2m11:58:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/root.tsx[22m
+[2m11:58:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.react-router/types/+future.ts[22m
+[2m12:04:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/utils/sql.js[22m
+[2m12:04:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/utils/sql.js[22m
+[2m12:04:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/utils/sql.js[22m
+[2m12:04:15 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:04:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/dashboard/stats/route.js[22m
+[2m12:04:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/dashboard/stats/route.js[22m
+[2m12:04:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/dashboard/stats/route.js[22m
+[2m12:04:52 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:04:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/complaints/route.js[22m
+[2m12:04:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/complaints/route.js[22m
+[2m12:04:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/complaints/route.js[22m
+[2m12:04:53 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:04:54 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/traffic/route.js[22m
+[2m12:04:54 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/traffic/route.js[22m
+[2m12:04:54 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/traffic/route.js[22m
+[2m12:04:54 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/water/route.js[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/water/route.js[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/water/route.js[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/waste/route.js[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/waste/route.js[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/waste/route.js[22m
+[2m12:04:55 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:04:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/emergency/route.js[22m
+[2m12:04:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/emergency/route.js[22m
+[2m12:04:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/emergency/route.js[22m
+[2m12:04:56 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:05:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/ai/analyze/route.js[22m
+[2m12:05:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/guntr/OneDrive/Desktop/html-css/intro to html ex/res/anything/anything/apps/web/src/app/api/ai/analyze/route.js[22m
+[2m12:05:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/ai/analyze/route.js[22m
+[2m12:05:17 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/__create/route-builder.ts, /src/app/global.css[22m
+[2m12:24:15 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m12:24:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/global.css, /src/app/errors/missing-component/page.jsx?noLayout.jsx[22m
+[2m12:24:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/global.css, /src/app/errors/missing-component/page.jsx?noLayout.jsx[22m
+[2m12:24:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/global.css, /src/app/errors/missing-component/page.jsx?noLayout.jsx[22m
+[2m12:24:16 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/errors/missing-component/helpers.js[22m
+[2m12:24:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/async-effect-error/page.jsx, /src/app/global.css[22m
+[2m12:24:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/async-effect-error/page.jsx?noLayout.jsx[22m
+[2m12:24:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/async-effect-error/page.jsx, /src/app/global.css[22m
+[2m12:24:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/async-effect-error/page.jsx, /src/app/global.css, /src/app/errors/async-effect-error/page.jsx?noLayout.jsx[22m
+[2m12:24:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx, /src/app/global.css[22m
+[2m12:24:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx?noLayout.jsx[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx, /src/app/global.css[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx?noLayout.jsx[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx, /src/app/global.css[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx?noLayout.jsx[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx, /src/app/global.css[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx?noLayout.jsx[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx, /src/app/global.css[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx, /src/app/global.css, /src/app/errors/event-handler-error/page.jsx?noLayout.jsx[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx, /src/app/global.css[22m
+[2m12:24:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/event-handler-error/page.jsx, /src/app/global.css, /src/app/errors/event-handler-error/page.jsx?noLayout.jsx[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx, /src/app/global.css[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx, /src/app/global.css, /src/app/errors/hook-rule/page.jsx?noLayout.jsx[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/infinite-render-loop/page.jsx, /src/app/global.css[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/infinite-render-loop/page.jsx?noLayout.jsx[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx, /src/app/global.css[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/hook-rule/page.jsx, /src/app/global.css, /src/app/errors/hook-rule/page.jsx?noLayout.jsx[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/infinite-render-loop/page.jsx, /src/app/global.css[22m
+[2m12:24:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/errors/infinite-render-loop/page.jsx, /src/app/global.css, /src/app/errors/infinite-render-loop/page.jsx?noLayout.jsx[22m
+[2m12:24:20 PM[22m [36m[1m[vite][22m[39m server restarted.
+[vite] Detected change in .env. Exiting for restart...
